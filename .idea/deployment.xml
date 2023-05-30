@@ -1,4 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="ls1" remoteFilesAllowedToDisappearOnAutoupload="false" />
+  <component name="PublishConfigData" serverName="ls1" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="ls1">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/kwtsangaf.github.io" local="$PROJECT_DIR$" web="/kwtsangaf.github.io" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
 </project>
